@@ -1,0 +1,32 @@
+ALT+INSERT = overide methods
+
+No need to write in strings.xml just click on the bulb and create values for string
+
+CRTL+CLICK for direct go to resource where it is writeen.
+
+
+Adding Objects Programetically in Layout
+RelativeLayout button = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.Wrap_Content,RelativeLayout.LayoutParams.wrapContent)
+
+button.addrule(RelativeLayout.CenterVertical)
+button.addrule(RelativeLayout.CenterHorizontal)
+
+RelativeLayout.addview(buttonobject, button) //adds the button at CenterVertical, CenterHorizontal and the button is Wrap_Content
+
+
+CTRL+Q highlight details for selected method
+
+setWidht of objects takes only pixel value
+
+Fragments are reusable for design 
+
+Fragments donot talk to one another
+
+Fragments need a medium to go through
+
+
+Threads can be used to work stuff in backgroud, works in backgroung only and handlers are used to show the output of threads in forground.
+
+
+Make buttons 48dp atleast
+
